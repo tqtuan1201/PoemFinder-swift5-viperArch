@@ -1,0 +1,13 @@
+{
+  "images" : [
+    {
+      "filename" : "img.poem.png",
+      "idiom" : "universal",
+      "locale" : "10:2020"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
